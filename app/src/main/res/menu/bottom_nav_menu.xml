@@ -3,11 +3,14 @@
 
     <item
         android:id="@+id/navForm"
-        android:title="Form" />
+        android:icon="@drawable/form_icon"
+        android:title="@string/form_icon" />
     <item
         android:id="@+id/navCellar"
-        android:title="Cellar" />
+        android:icon="@drawable/cellar_icon"
+        android:title="@string/bodega_icon"/>
     <item
         android:id="@+id/navHistory"
-        android:title="History" />
+        android:icon="@drawable/history_icon"
+        android:title="@string/historial_icon"/>
 </menu>
